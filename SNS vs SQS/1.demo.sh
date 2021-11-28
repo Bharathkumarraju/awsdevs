@@ -14,7 +14,7 @@ So you can have SQS a subscriber or a lambda function or even an Email as a subs
 
 Question:
 ----------------->
-Do other systems care about an event? YES
+Do other systems care about an event? YES --> You send data to other systems.
 
 SQS:
 -------------------------------------------------------------------------------------------------------------------------->
